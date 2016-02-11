@@ -1,0 +1,22 @@
+{
+  "name": "easytrader_nodejs",
+  "version": "1.0.0",
+  "description": "easytrader for nodejs",
+  "main": "n",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shidenggui/easytrader_nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shidenggui/easytrader_nodejs/issues"
+  },
+  "homepage": "https://github.com/shidenggui/easytrader_nodejs#readme",
+  "dependencies": {
+    "request": "^2.69.0"
+  }
+}
