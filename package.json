@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/shidenggui/easytrader_nodejs#readme",
   "dependencies": {
+    "async": "^1.5.2",
     "lodash": "^4.3.0",
     "request": "^2.69.0",
     "shelljs": "^0.6.0"
